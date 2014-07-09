@@ -1,4 +1,6 @@
-davidtgithub.githubclass.github.org
+# GitHub Class Website
 ===================================
 
-GitHub class on GitHub Pages
+Class Material:
+
+  Day 1:
